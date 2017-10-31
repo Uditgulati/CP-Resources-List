@@ -21,3 +21,7 @@ A list of excellent resources for most of the topics covered in Competitive Prog
 ## Graph Theory
 
 +	*Intoduction:* [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/introduction-to-graphs-and-their-data-structures-section-1/), [GeeksForGeeks](http://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+
+## Blogs regarding problem editorials
+
++ [http://www.cnblogs.com/ccz181078](http://www.cnblogs.com/ccz181078) - Chinese blog consisting extremely good problems and their editorials
