@@ -25,3 +25,15 @@ A list of excellent resources for most of the topics covered in Competitive Prog
 ## Blogs regarding problem editorials
 
 + [http://www.cnblogs.com/ccz181078](http://www.cnblogs.com/ccz181078) - Chinese blog consisting extremely good problems and their editorials
+
++ [http://e-maxx.ru/](http://e-maxx.ru/) - Good reading material for advanced topics
+
+## Youtube channels related to CP
+
++ [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) - Lots of good round and how to think at feet!
+
++ [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) - Editorials on different topics and problems every week!
+
++ [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw) - Courses on programming and many more
+
++ [Egor Kulikov](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
