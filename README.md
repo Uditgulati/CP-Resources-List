@@ -28,6 +28,8 @@ A list of excellent resources for most of the topics covered in Competitive Prog
 
 + [http://e-maxx.ru/](http://e-maxx.ru/) - Good reading material for advanced topics
 
++ [http://e-maxx-eng.appspot.com/](http://e-maxx-eng.appspot.com/) - English translation of *e-maxx.ru*.
+
 ## Youtube channels related to CP
 
 + [Petr Mitrichev](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) - Lots of good round and how to think at feet!
